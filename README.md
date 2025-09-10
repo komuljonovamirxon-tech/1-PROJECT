@@ -1,2 +1,3 @@
 # 1-PROJECT
-Bu mening birinchi loyiham
+
+bu githubdagi birinchi loyiham
